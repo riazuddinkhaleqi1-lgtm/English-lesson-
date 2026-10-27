@@ -1,16 +1,23 @@
-# English Lessons
+# 📚 English Lessons
 
-Daily English lessons by Riazuddin Khaleqi.
+![Lessons](https://img.shields.io/badge/Lessons-7-brightgreen)
+![Updated](https://img.shields.io/badge/Updated-Daily-blue)
+![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
-Learn English step by step, one lesson a day: the alphabet, numbers, colors,
-days, months, family words, verbs, and more.
+Learn English step by step, one lesson a day. Short, simple lessons for
+beginners: the alphabet, numbers, colors, days, months, family words, verbs,
+and more. Each lesson comes with a picture, a short video, and voice notes.
 
-Follow the lessons here:
-- Instagram: @riazuddinkhaleqi
-- Telegram: @EnghlishAf
-- YouTube: @Riazuddinkhaleqi
+> New lesson every day. Start from Lesson 1 and go in order.
 
-## Lesson List
+## 🚀 How to use this repo
+
+1. Open the [lessons](lessons) folder, or pick a lesson from the list below.
+2. Read the words out loud, two or three times.
+3. Watch the video and listen to the pronunciation.
+4. Try to use the new words in a sentence today.
+
+## 📖 Lessons
 
 | # | Lesson | What you learn | Lesson file | Watch |
 |---|--------|----------------|-------------|-------|
@@ -22,4 +29,20 @@ Follow the lessons here:
 | 6 | Family Words | Father, Mother, Brother, Sister, Son, Daughter, Grandfather, Grandmother, Uncle, Aunt | [Lesson 6](lessons/lesson-06-family-words.md) | [Instagram](https://www.instagram.com/p/De8XTkUCRQ6/) · [Telegram](https://t.me/EnghlishAf/39) · [YouTube](https://www.youtube.com/shorts/Qx50mmGfvDY) |
 | 7 | Common Verbs | Go, Come, Eat, Drink, Sleep, Read, Write, Speak, Listen, Learn | [Lesson 7](lessons/lesson-07-common-verbs.md) | [Instagram](https://www.instagram.com/p/De-74TLjCcm/) · [Telegram](https://t.me/EnghlishAf/41) · [YouTube](https://www.youtube.com/shorts/JDp8OtnZ8G8) |
 
-New lessons are added daily. Next up: Lesson 8, Body Parts.
+⏭️ Next up: Lesson 8, Body Parts.
+
+## 🔔 Follow
+
+- Instagram: [@riazuddinkhaleqi](https://www.instagram.com/riazuddinkhaleqi/)
+- Telegram: [@EnghlishAf](https://t.me/EnghlishAf)
+- YouTube: [@Riazuddinkhaleqi](https://www.youtube.com/@Riazuddinkhaleqi)
+
+## 🤝 Contributing
+
+Found a mistake in a lesson? Open an issue and tell us. Suggestions for new
+topics are welcome too.
+
+## ⭐ Support
+
+If these lessons help you, star this repo and share it with a friend who is
+learning English.
