@@ -1,11 +1,11 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-7-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-8-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
 Learn English step by step, one lesson a day. Short, simple lessons for
-beginners: the alphabet, numbers, colors, days, months, family words, verbs,
+beginners: the alphabet, numbers, colors, days, months, family words, verbs, body parts,
 and more. Each lesson comes with a picture, a short video, and voice notes.
 
 > New lesson every day. Start from Lesson 1 and go in order.
@@ -28,8 +28,9 @@ and more. Each lesson comes with a picture, a short video, and voice notes.
 | 5 | Months of the Year | January to December | [Lesson 5](lessons/lesson-05-months.md) | [Instagram](https://www.instagram.com/reel/De5zDpWk_iR/) · [Telegram](https://t.me/EnghlishAf/37) · [YouTube](https://www.youtube.com/shorts/kwGwhHFooCU) |
 | 6 | Family Words | Father, Mother, Brother, Sister, Son, Daughter, Grandfather, Grandmother, Uncle, Aunt | [Lesson 6](lessons/lesson-06-family-words.md) | [Instagram](https://www.instagram.com/p/De8XTkUCRQ6/) · [Telegram](https://t.me/EnghlishAf/39) · [YouTube](https://www.youtube.com/shorts/Qx50mmGfvDY) |
 | 7 | Common Verbs | Go, Come, Eat, Drink, Sleep, Read, Write, Speak, Listen, Learn | [Lesson 7](lessons/lesson-07-common-verbs.md) | [Instagram](https://www.instagram.com/p/De-74TLjCcm/) · [Telegram](https://t.me/EnghlishAf/41) · [YouTube](https://www.youtube.com/shorts/JDp8OtnZ8G8) |
+| 8 | Body Parts | Head, Hair, Eyes, Ears, Nose, Mouth, Hands, Arms, Legs, Feet | [Lesson 8](lessons/lesson-08-body-parts.md) | [Instagram](https://www.instagram.com/p/DfBqs8RD8tg/) · [Telegram](https://t.me/EnghlishAf/43) · [YouTube](https://youtube.com/shorts/LWv8sYNJVWw) |
 
-⏭️ Next up: Lesson 8, Body Parts.
+⏭️ Next up: Lesson 9.
 
 ## 🔔 Follow
 
