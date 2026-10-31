@@ -41,6 +41,11 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 - Telegram: [@EnghlishAf](https://t.me/EnghlishAf)
 - YouTube: [@Riazuddinkhaleqi](https://www.youtube.com/@Riazuddinkhaleqi)
 
+## 📚 Recommended courses
+
+Free courses for learning more:
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — 21 lessons from Microsoft on building apps with Generative AI.
+
 ## 🤝 Contributing
 
 Found a mistake in a lesson? Open an issue and tell us. Suggestions for new
