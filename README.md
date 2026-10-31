@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-10-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-11-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -31,8 +31,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 8 | Body Parts | Head, Hair, Eyes, Ears, Nose, Mouth, Hands, Arms, Legs, Feet | [Lesson 8](lessons/lesson-08-body-parts.md) | [Instagram](https://www.instagram.com/p/DfBqs8RD8tg/) · [Telegram](https://t.me/EnghlishAf/43) · [YouTube](https://youtube.com/shorts/LWv8sYNJVWw) |
 | 9 | Food and Drink | Bread, Rice, Milk, Water, Tea, Apple, Egg, Meat, Fish, Sugar | [Lesson 9](lessons/lesson-09-food-and-drink.md) | [Instagram](https://www.instagram.com/p/DfEGDYmk6f6/) · [Telegram](https://t.me/EnghlishAf/45) · [YouTube](https://youtube.com/shorts/fuomfj3-qUA) |
 | 10 | Animals | Cat, Dog, Bird, Fish, Horse, Cow, Sheep, Goat, Chicken, Donkey | [Lesson 10](lessons/lesson-10-animals.md) | [Instagram](https://www.instagram.com/p/DfF_PrEDhnj/) · [Telegram](https://t.me/EnghlishAf/47) · [YouTube](https://www.youtube.com/shorts/eK7R72yiRQI) |
+| 11 | Clothes | Shirt, Pants, Shoes, Hat, Jacket, Socks, Gloves, Scarf, Coat, Tie | [Lesson 11](lessons/lesson-11-clothes.md) | [Instagram](https://www.instagram.com/p/DfJZgIsDGhe/) · [Telegram](https://t.me/EnghlishAf/49) |
 
-⏭️ Next up: Lesson 11.
+⏭️ Next up: Lesson 12.
 
 ## 🔔 Follow
 
