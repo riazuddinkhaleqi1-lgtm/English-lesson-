@@ -30,3 +30,4 @@ What are you wearing today? Answer in English in the comments!
 - Instagram image: https://www.instagram.com/p/DfJZgIsDGhe/
 - Instagram reel: https://www.instagram.com/reel/DfJZhkDjK9Q/
 - Telegram: https://t.me/EnghlishAf/49 and https://t.me/EnghlishAf/50
+- YouTube: https://www.youtube.com/shorts/tAq136Dfo8g
