@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-11-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-12-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -32,8 +32,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 9 | Food and Drink | Bread, Rice, Milk, Water, Tea, Apple, Egg, Meat, Fish, Sugar | [Lesson 9](lessons/lesson-09-food-and-drink.md) | [Instagram](https://www.instagram.com/p/DfEGDYmk6f6/) · [Telegram](https://t.me/EnghlishAf/45) · [YouTube](https://youtube.com/shorts/fuomfj3-qUA) |
 | 10 | Animals | Cat, Dog, Bird, Fish, Horse, Cow, Sheep, Goat, Chicken, Donkey | [Lesson 10](lessons/lesson-10-animals.md) | [Instagram](https://www.instagram.com/p/DfF_PrEDhnj/) · [Telegram](https://t.me/EnghlishAf/47) · [YouTube](https://www.youtube.com/shorts/eK7R72yiRQI) |
 | 11 | Clothes | Shirt, Pants, Shoes, Hat, Jacket, Socks, Gloves, Scarf, Coat, Tie | [Lesson 11](lessons/lesson-11-clothes.md) | [Instagram](https://www.instagram.com/p/DfJZgIsDGhe/) · [Telegram](https://t.me/EnghlishAf/49) · [YouTube](https://www.youtube.com/shorts/tAq136Dfo8g) |
+| 12 | At Home | Door, Window, Table, Chair, Bed, Lamp, Kitchen, Bathroom, Mirror, Garden | [Lesson 12](lessons/lesson-12-at-home.md) | [Instagram](https://www.instagram.com/p/DfLzT6qjzRA/) · [Telegram](https://t.me/EnghlishAf/51) · [YouTube](https://www.youtube.com/shorts/FcRuOC4rpBw) |
 
-⏭️ Next up: Lesson 12.
+⏭️ Next up: Lesson 13.
 
 ## 🔔 Follow
 
