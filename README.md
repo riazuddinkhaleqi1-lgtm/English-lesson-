@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-13-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-14-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -34,8 +34,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 11 | Clothes | Shirt, Pants, Shoes, Hat, Jacket, Socks, Gloves, Scarf, Coat, Tie | [Lesson 11](lessons/lesson-11-clothes.md) | [Instagram](https://www.instagram.com/p/DfJZgIsDGhe/) · [Telegram](https://t.me/EnghlishAf/49) · [YouTube](https://www.youtube.com/shorts/tAq136Dfo8g) |
 | 12 | At Home | Door, Window, Table, Chair, Bed, Lamp, Kitchen, Bathroom, Mirror, Garden | [Lesson 12](lessons/lesson-12-at-home.md) | [Instagram](https://www.instagram.com/p/DfLzT6qjzRA/) · [Telegram](https://t.me/EnghlishAf/51) · [YouTube](https://www.youtube.com/shorts/FcRuOC4rpBw) |
 | 13 | At School | Book, Pen, Pencil, Teacher, Student, Desk, Bag, Paper, Eraser, Ruler | [Lesson 13](lessons/lesson-13-at-school.md) | [Instagram](https://www.instagram.com/p/DfN333Gj3Ft/) · [Telegram](https://t.me/EnghlishAf/53) · [YouTube](https://www.youtube.com/shorts/WCTjXoCBfFk) |
+| 14 | Professions | Doctor, Nurse, Engineer, Driver, Farmer, Shopkeeper, Cook, Police Officer, Pilot, Writer | [Lesson 14](lessons/lesson-14-professions.md) | [Instagram](https://www.instagram.com/p/DfRHi2tDw7A/) · [Telegram](https://t.me/EnghlishAf/55) · [YouTube](https://www.youtube.com/shorts/eTz0tBpUrzk) |
 
-⏭️ Next up: Lesson 14.
+⏭️ Next up: Lesson 15.
 
 ## 🔔 Follow
 
