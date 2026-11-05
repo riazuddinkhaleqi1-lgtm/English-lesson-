@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-15-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-16-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -36,8 +36,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 13 | At School | Book, Pen, Pencil, Teacher, Student, Desk, Bag, Paper, Eraser, Ruler | [Lesson 13](lessons/lesson-13-at-school.md) | [Instagram](https://www.instagram.com/p/DfN333Gj3Ft/) · [Telegram](https://t.me/EnghlishAf/53) · [YouTube](https://www.youtube.com/shorts/WCTjXoCBfFk) |
 | 14 | Professions | Doctor, Nurse, Engineer, Driver, Farmer, Shopkeeper, Cook, Police Officer, Pilot, Writer | [Lesson 14](lessons/lesson-14-professions.md) | [Instagram](https://www.instagram.com/p/DfRHi2tDw7A/) · [Telegram](https://t.me/EnghlishAf/55) · [YouTube](https://www.youtube.com/shorts/eTz0tBpUrzk) |
 | 15 | Weather | Sunny, Cloudy, Rainy, Snowy, Windy, Stormy, Foggy, Hot, Cold, Rainbow | [Lesson 15](lessons/lesson-15-weather.md) | [Instagram](https://www.instagram.com/p/DfTsnNfkyrB/) · [Telegram](https://t.me/EnghlishAf/57) · [YouTube](https://www.youtube.com/shorts/afi-KeQgb10) |
+| 16 | Feelings | Happy, Sad, Angry, Tired, Hungry, Thirsty, Sick, Excited, Scared, Surprised | [Lesson 16](lessons/lesson-16-feelings.md) | [Instagram](https://www.instagram.com/p/DfWQ6HBD1kX/) · [Telegram](https://t.me/EnghlishAf/59) · [YouTube](https://www.youtube.com/shorts/cgpBqYIWW7k) |
 
-⏭️ Next up: Lesson 16.
+⏭️ Next up: Lesson 17.
 
 ## 🔔 Follow
 
