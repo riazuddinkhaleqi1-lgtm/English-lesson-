@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-17-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-18-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -38,8 +38,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 15 | Weather | Sunny, Cloudy, Rainy, Snowy, Windy, Stormy, Foggy, Hot, Cold, Rainbow | [Lesson 15](lessons/lesson-15-weather.md) | [Instagram](https://www.instagram.com/p/DfTsnNfkyrB/) · [Telegram](https://t.me/EnghlishAf/57) · [YouTube](https://www.youtube.com/shorts/afi-KeQgb10) |
 | 16 | Feelings | Happy, Sad, Angry, Tired, Hungry, Thirsty, Sick, Excited, Scared, Surprised | [Lesson 16](lessons/lesson-16-feelings.md) | [Instagram](https://www.instagram.com/p/DfWQ6HBD1kX/) · [Telegram](https://t.me/EnghlishAf/59) · [YouTube](https://www.youtube.com/shorts/cgpBqYIWW7k) |
 | 17 | Fruits | Banana, Orange, Grapes, Mango, Watermelon, Pomegranate, Peach, Pear, Lemon, Strawberry | [Lesson 17](lessons/lesson-17-fruits.md) | [Instagram](https://www.instagram.com/p/DfY1qNLD_sM/) · [Telegram](https://t.me/EnghlishAf/61) · [YouTube](https://www.youtube.com/shorts/N5Zes0OeeSA) |
+| 18 | Everyday Phrases | How are you?, I'm fine thank you, Please, Excuse me, Sorry, You're welcome, Goodbye, See you later, Nice to meet you, No problem | [Lesson 18](lessons/lesson-18-everyday-phrases.md) | [Instagram](https://www.instagram.com/p/DfbammOk_td/) · [Telegram](https://t.me/EnghlishAf/63) · [YouTube](https://www.youtube.com/shorts/FFIN0v6QhVo) |
 
-⏭️ Next up: Lesson 18.
+⏭️ Next up: Lesson 19.
 
 ## 🔔 Follow
 
