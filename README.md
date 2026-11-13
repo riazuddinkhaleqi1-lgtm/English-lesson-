@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-23-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-24-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -44,8 +44,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 21 | Sports | Football, Cricket, Running, Swimming, Cycling, Basketball, Volleyball, Tennis, Boxing, Exercise | [Lesson 21](lessons/lesson-21-sports.md) | [Instagram](https://www.instagram.com/p/DfjI7R0j097/) · [Telegram](https://t.me/EnghlishAf/69) · [YouTube](https://youtube.com/shorts/VAWd_RVsNR8) |
 | 22 | My Free Time | Reading, Watching TV, Listening to music, Playing games, Cooking, Walking, Visiting friends, Sleeping, Drawing, Singing | [Lesson 22](lessons/lesson-22-my-free-time.md) | [Instagram](https://www.instagram.com/p/DfltsUJD8X5/) · [Telegram](https://t.me/EnghlishAf/71) · [YouTube](https://www.youtube.com/shorts/CTtYku6uhNw) |
 | 23 | At the Market | Market, Shop, Money, Buy, Sell, Price, Cheap, Expensive, Seller, Customer | [Lesson 23](lessons/lesson-23-at-the-market.md) | [Instagram](https://www.instagram.com/p/DfoSpj9D3qh/) · [Telegram](https://t.me/EnghlishAf/73) · [YouTube](https://youtube.com/shorts/wsnDkG5xCz4) |
+| 24 | Places in My Town | Hospital, Mosque, Park, Bank, Library, Pharmacy, Restaurant, Cinema, Hotel, Post Office | [Lesson 24](lessons/lesson-24-places-in-my-town.md) | [Instagram](https://www.instagram.com/p/Dfq37-2D8og/) · [Telegram](https://t.me/EnghlishAf/75) · [YouTube](https://youtube.com/shorts/CK7J91O4I90) |
 
-⏭️ Next up: Lesson 24.
+⏭️ Next up: Lesson 25.
 
 ## 🔔 Follow
 
