@@ -29,5 +29,5 @@ Shy
 
 - Instagram: [Image](https://www.instagram.com/p/Dftc-COjpjf/) · [Reel](https://www.instagram.com/reel/Dftc_rNjv5-/)
 - Telegram: [Photo](https://t.me/EnghlishAf/79) · [Video](https://t.me/EnghlishAf/80)
-- YouTube:
-- TikTok: [Lesson 25]() · [Backlog Lesson 10]()
+- YouTube: https://youtube.com/shorts/dB3Mhc-Io0c
+- TikTok: [Lesson 25](https://www.tiktok.com/@user6170942277788/video/7707947358847290654) · [Backlog Lesson 10](https://www.tiktok.com/@user6170942277788/video/7707947429030677773)
