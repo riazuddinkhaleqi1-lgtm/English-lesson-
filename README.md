@@ -1,6 +1,6 @@
 # 📚 English Lessons
 
-![Lessons](https://img.shields.io/badge/Lessons-26-brightgreen)
+![Lessons](https://img.shields.io/badge/Lessons-27-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-Daily-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
@@ -47,8 +47,9 @@ food and drink, and more. Each lesson comes with a picture, a short video, and v
 | 24 | Places in My Town | Hospital, Mosque, Park, Bank, Library, Pharmacy, Restaurant, Cinema, Hotel, Post Office | [Lesson 24](lessons/lesson-24-places-in-my-town.md) | [Instagram](https://www.instagram.com/p/Dfq37-2D8og/) · [Telegram](https://t.me/EnghlishAf/75) · [YouTube](https://www.youtube.com/shorts/CK7J91O4I90) |
 | 25 | My Best Friend | Kind, Funny, Helpful, Honest, Brave, Patient, Smart, Friendly, Strong, Shy | [Lesson 25](lessons/lesson-25-my-best-friend.md) | [Instagram](https://www.instagram.com/p/Dftc-COjpjf/) · [Telegram](https://t.me/EnghlishAf/79) · [YouTube](https://youtube.com/shorts/dB3Mhc-Io0c) |
 | 26 | At the Doctor | Doctor, Nurse, Patient, Medicine, Fever, Headache, Cough, Pain, Healthy, Rest | [Lesson 26](lessons/lesson-26-at-the-doctor.md) | [Instagram](https://www.instagram.com/p/DfwBLzljyAu/) · [Telegram](https://t.me/EnghlishAf/81) · [YouTube](https://youtube.com/shorts/aMaeKrOBKsU) |
+| 27 | At the Restaurant | Restaurant, Menu, Waiter, Order, Breakfast, Lunch, Dinner, Dessert, Bill, Delicious | [Lesson 27](lessons/lesson-27-at-the-restaurant.md) | [Instagram](https://www.instagram.com/p/DfyltzwD6BW/) · [Telegram](https://t.me/EnghlishAf/83) · [YouTube](https://youtube.com/shorts/XQlkcWsOWD8) |
 
-⏭️ Next up: Lesson 27.
+⏭️ Next up: Lesson 28.
 
 ## 🔔 Follow
 
